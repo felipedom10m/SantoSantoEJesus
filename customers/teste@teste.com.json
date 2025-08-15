@@ -1,0 +1,11 @@
+{
+  "email": "teste@teste.com",
+  "senha": "teste-test_3",
+  "produto": "SantoSantoEJesus",
+  "upsells_comprados": [
+    2
+  ],
+  "data": "2025-08-15T19:01:40.161Z",
+  "transacao_id": "test_377961",
+  "acesso_liberado": true
+}
